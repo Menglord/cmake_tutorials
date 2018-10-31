@@ -2,3 +2,5 @@ How To Integrate CMake Editor plugin in to Eclipse:
 Add software source :http://cmakeed.sourceforge.net/eclipse/
 In Eclipse: Help->Install New Software->select that site
 check CMake Editor and go Next->Next until finish
+
+XML Editor site:http://editorxml.sourceforge.net/updates/
